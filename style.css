@@ -7,6 +7,7 @@ body{
 
 table{
 width: 100%;
+border: lime;
 }
 
 th{
@@ -72,6 +73,9 @@ th{
     margin: auto;
 }
 
+.videoPlay td{
+    align-content: center;
+}
 
 
 footer{
