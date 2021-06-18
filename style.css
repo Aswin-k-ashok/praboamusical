@@ -4,6 +4,10 @@ body{
     margin:0;
     font-family: Arial, Helvetica, sans-serif;
 }
+iframe{
+    width: 50%;
+    height: 2%;
+}
 
 table{
 width: 100%;
